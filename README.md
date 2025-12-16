@@ -10,7 +10,7 @@ Follow these steps to get up and running.
 
 **Step A: Get Antigravity**
 
-1. **Download & Install**: If you haven't already, download and install Antigravity from [[INSERT ANTIGRAVITY DOWNLOAD LINK HERE]](https://antigravity.google/download).
+1. **Download & Install**: If you haven't already, download and install Antigravity from: [[ANTIGRAVITY DOWNLOAD]](https://antigravity.google/download).
 2. **Open Antigravity**: Launch the application.
 
 **Step B: Load the Project**
@@ -20,7 +20,7 @@ You have two options to get this tool running inside Antigravity:
 
 1. In Antigravity, look for the input prompt or "New Project" button.
 2. Type the following command (replace `[Your-Git-Link]` with the actual link to this repository):
-    > *"Clone this repo: [Your-Git-Link] and help me set it up."*
+    > *"Clone this repo: https://github.com/pnutnam/outreach_orchestrator and help me set it up."*
 3. Antigravity will handle the downloading for you.
 
 *Option 2: The "Zip File" Method*
