@@ -10,7 +10,7 @@ Follow these steps to get up and running.
 
 **Step A: Get Antigravity**
 
-1. **Download & Install**: If you haven't already, download and install Antigravity from [INSERT ANTIGRAVITY DOWNLOAD LINK HERE].
+1. **Download & Install**: If you haven't already, download and install Antigravity from [[INSERT ANTIGRAVITY DOWNLOAD LINK HERE]](https://antigravity.google/download).
 2. **Open Antigravity**: Launch the application.
 
 **Step B: Load the Project**
