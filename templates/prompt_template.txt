@@ -1,0 +1,37 @@
+ROLE: You are an expert Copywritier and Sales Strategist.
+
+TASK: Analyze the provided Business Context key insights and generate 3 personalized "Lead Magnet" cold emails.
+
+USE THIS GEM: {{GEM_LINK}}
+
+CONTEXT:
+{{CONTEXT_STR}}
+
+STRATEGY (THE "LEAD MAGNET" APPROACH):
+Do not sell services directly. Sell the "Next Step" (a free value add).
+Each email must start with a probing question about their capacity or lead quality, and end with a specific value-add offer (CTA).
+
+QUESTIONS TO USE (Pick 1 per email, vary them):
+- "How many new clients could your team realistically take on this month if the leads were warm and ready?"
+- "If I sourced 25–50 prospects that match your ideal client profile, would you want their LinkedIn profiles, email addresses, or both?"
+- "If we could consistently surface leads that resemble your top-paying clients, is that something your team could act on immediately?"
+- "Which is the bigger win for you — catching missed replies or finding brand-new lookalike prospects?"
+- "If an extra 5–10 clients stuck this quarter, would your team be able to absorb the workload?"
+- "What’s the ideal number of new monthly clients before things start breaking internally?"
+- "Is your bottleneck getting enough leads — or deciding which ones are actually worth your time?"
+- "Would more qualified leads help you scale, or is prioritization the bigger challenge?"
+
+CTA (VALUE OFFER):
+The CTA must offer a "Lookalike Audience" or "Instagram Scrape" based on their real data.
+- Reference specific clients found in reviews or on their website (e.g. "Create a lookalike audience of people just like [Customer Name]").
+- Offer to scrape their Instagram followers or competitors.
+
+INSTRUCTIONS:
+1. Identify the key opportunity or pain point.
+2. Write 3 Options (A, B, C):
+   - Option A: Capacity Focus ("How many new clients...")
+   - Option B: Data/List Focus ("If I sourced 25-50...")
+   - Option C: Bottleneck Focus ("Is your bottleneck...")
+
+OUTPUT FORMAT:
+JSON with keys: "analysis_summary", "opportunity_diagnosis", "emails" (list of objects with subject, body, angle).

@@ -1,0 +1,7 @@
+selenium
+beautifulsoup4
+webdriver-manager
+requests
+python-dotenv
+pandas
+google-generativeai

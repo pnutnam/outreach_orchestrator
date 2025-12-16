@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.json
+!*_intelligence.json
+!manifest.json
+venv/
+urls.csv
+first_thirty_first_email.csv
